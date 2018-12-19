@@ -33,8 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DirectShowLib-2005">
-      <HintPath>G:\DirectShowLibV2-1\lib\DirectShowLib-2005.dll</HintPath>
+    <Reference Include="DirectShowLib, Version=2.1.0.1599, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\DirectShowLib.1.0.0\lib\DirectShowLib.dll</HintPath>
     </Reference>
     <Reference Include="Dynamsoft.BarcodeReader, Version=4.2.0.401, Culture=neutral, PublicKeyToken=ad0967c36e09320a, processorArchitecture=MSIL">
       <HintPath>..\packages\Dynamsoft.DotNet.Barcode.4.2.0\lib\net40\Dynamsoft.BarcodeReader.dll</HintPath>
